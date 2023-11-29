@@ -32,7 +32,7 @@ function wp_lightbox_js_settings_page() {
 // Script de la lightbox
 function wp_lightbox_js_script() {
 ?>
-    <script type="text/javascript" src="/wp-content/plugins/lightbox-by-alibee/js/lightbox.min.js"></script>
+    <script type="text/javascript" src="/wp-content/plugins/wp-lightboxjs/js/lightbox.min.js"></script>
 <?php
 }
 
